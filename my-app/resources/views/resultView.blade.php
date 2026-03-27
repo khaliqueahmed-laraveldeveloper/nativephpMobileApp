@@ -1,0 +1,10 @@
+<div>
+   <h1>
+    Result
+   </h1>
+   <pre>
+   @php
+       print_r($result)
+   @endphp
+   </pre>
+</div>
